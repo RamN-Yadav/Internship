@@ -1,0 +1,1 @@
+To build a scalable platform  using the MERN stack (MongoDB, Express.js, React, and Node.js). The platform will allow users (students, professionals, and organizations) to create, manage, and participate in opportunities such as hackathons, quizzes, and job openings.
